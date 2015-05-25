@@ -1,1 +1,1 @@
-# vk_console_messager
+# VK console messager
